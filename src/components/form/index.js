@@ -1,5 +1,4 @@
-import React, { useRef } from 'react';
-
+import { useRef } from 'react';
 import './form.scss';
 
 function Form(props){
@@ -61,6 +60,7 @@ function Form(props){
       </form>
     </>
     );
+  
 }
 
 export default Form;

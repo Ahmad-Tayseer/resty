@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import Header from './components/header/header';
-import Footer from './components/footer/footer';
-import Form from './components/form/form';
-import Results from './components/results/results';
-import './app.scss'
+import Header from './components/header';
+import Footer from './components/footer';
+import Form from './components/form';
+import Results from './components/results';
+import './App.scss'
 
 function App() {
 
